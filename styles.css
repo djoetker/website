@@ -1,0 +1,11 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    color: crimson;
+}
+
+h1:hover {
+    text-shadow: 4px 4px 8px #000000;
+}
